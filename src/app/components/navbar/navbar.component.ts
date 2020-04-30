@@ -6,4 +6,5 @@ import { Component } from "@angular/core";
 })
 
 export class NavbarComponent{
+    public fecha = new Date("2020-10-27T12:39:57").toString();
 }
